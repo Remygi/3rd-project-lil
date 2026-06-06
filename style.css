@@ -97,6 +97,11 @@
 
 
 /*-----#5-------*/
+.main5 {
+  position: relative;
+  height: 150px;
+}
+
 .bg{
     width: 400px;
     height: 150px;
